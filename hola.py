@@ -4,8 +4,7 @@
  por pantalla la cadena ¡Hola <nombre>!, donde <nombre> es el nombre que el usuario haya introducido.
 """
 
-nombre = input("Introduce tu nombre: ")
+nombre = input("Introduce tu nnombre: ")
 print("¡Hola " + nombre + "!")
-© 2021 GitHub, Inc.
 © 2021 GitHub, Inc.
 
